@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noorulhaqrahimi&label=Profile%20Views&color=0e75b6&style=flat" alt="noorulhaqrahimi" />
+  <img src="https://github.com/noorulhaqrahimi/noorulhaqrahimi/blob/main/assets/banner.png?raw=true" alt="noorulhaqrahimi" />
 </p>
 
 # 💫 Hi 👋, I'm Noorulhaq Rahimi
