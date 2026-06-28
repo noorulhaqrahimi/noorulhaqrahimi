@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/noorulhaqrahimi/noorulhaqrahimi/blob/main/assets/banner.png?raw=true" alt="noorulhaqrahimi" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamimran613&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
 
 # 💫 Hi 👋, I'm Noorulhaq Rahimi
 
