@@ -6,6 +6,7 @@
 # 💫 Hi 👋, I'm Noorulhaq Rahimi
 
 ### Full Stack Web Developer | React.js | PHP Laravel | TypeScript | MySQL | SQL
+Html
 
 💻 Passionate about building modern, responsive and scalable web applications.
 
