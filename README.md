@@ -1,98 +1,148 @@
 <p align="center">
-  <img src="https://github.com/noorulhaqrahimi/noorulhaqrahimi/blob/main/assets/banner.png?raw=true" alt="noorulhaqrahimi" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,29&text=Noorulhaq%20Rahimi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=20&descAlignY=55&textBg=false"
+    alt="Noorulhaq Rahimi Banner"
+    width="100%"
+  />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulhaqrahimi&label=Profile%20Views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=noorulhaqrahimi">
+    <img src="https://komarev.com/ghpvc/?username=noorulhaqrahimi&label=Profile%20views&color=00FFFF&style=flat-square" alt="noorulhaqrahimi's profile views" />
+  </a>
+</p>
 
-# 💫 Hi 👋, I'm Noorulhaq Rahimi
+<img src="https://github.com/noorulhaqrahimi/noorulhaqrahimi/raw/main/assets/banner.png?raw=true" alt="Banner" width="100%" />
 
-### Full Stack Web Developer | HTML5 | CSS3 | JavaScript | TypeScript | React.js | Next.js | PHP | Laravel | MySQL | SQL
+## 📌 About Me
+- 🌱 I'm currently learning Laravel and improving my backend development skills.
+- 💻 Full Stack Web Developer with a strong passion for modern web technologies.
+- ⚛️ Experienced with React.js, TypeScript, Tailwind CSS, and responsive UI development.
+- ⚡ Building scalable web applications using PHP, Laravel, and MySQL.
+- 🤝 I'm looking to collaborate on Full Stack, React.js, Laravel, and Open Source projects.
+- 🚀 Always learning new technologies and improving my coding skills.
+- 📫 Reach me on LinkedIn or GitHub.
 
-💻 Passionate about building modern, responsive and scalable web applications.
 
-📧 **Email:** noorulhaqrahimi11@gmail.com
+## 🧠 My Focus Areas
+- Full Stack Web Development
+- Frontend Development
+- Backend Development
+- React.js Development
+- Laravel Development
+- REST API Development
+- TypeScript
+- Responsive Web Design
+- Database Design (MySQL)
+- Clean Code & Best Practices
+- Open Source Contribution
+- Performance Optimization
 
-🌱 Currently learning **Laravel** and improving my **Full Stack Development** skills.
 
-🚀 I enjoy creating modern web applications using React, PHP, Laravel and MySQL.
-
----
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NoorulhaqRahimi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/NoorulhaqRahimi11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NoorulhaqRahimi)
-
----
-
-# 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
-# 📊 GitHub Stats
-
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/noorulhaqrahimi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noorulhaqrahimi&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="noorulhaqrahimi's GitHub Stats" />
+  </a>
+  <!-- <img src="https://streak-stats.demolab.com/?user=noorulhaqrahimi&theme=radical&hide_border=true&cache_seconds=86400" alt="noorulhaqrahimi's GitHub Streak" width="49%" /> -->
+</p>
+<p align="center">
+  <!-- <img src="https://trophy.ryglcloud.net/?username=noorulhaqrahimi&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Noorulhaq Rahimi's GitHub Trophies" /> -->
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=noorulhaqrahimi&theme=radical&radius=10" alt="noorulhaqrahimi's Activity Graph" />
+</p>
 <div align="center">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noorulhaqrahimi&theme=radical">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noorulhaqrahimi&theme=radical">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noorulhaqrahimi&theme=radical">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noorulhaqrahimi&theme=radical">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noorulhaqrahimi&theme=radical&utcOffset=4.5">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=noorulhaqrahimi&theme=radical&show_icons=true">
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorulhaqrahimi&theme=radical">
-
+  <!-- <img src="profile-3d-city.svg" alt="3D City" width="100%" /> -->
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhaqrahimi&theme=radical&layout=compact)
 
----
+## 🛠️ Languages & Tools
 
-## 🏆 GitHub Trophies
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
-![](https://github-profile-trophy.vercel.app/?username=noorulhaqrahimi&theme=radical&margin-w=4)
+</p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/noorulhaqrahimi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noorulhaqrahimi&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://stats.pphat.top/languages?username=noorulhaqrahimi"
+    alt="Top Languages"
+    width="100%"
+  />
+</p>
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://x.com/NoorulhaqRahim">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/748906077">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:noorulhaqrahimi11@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://noorulhaq-rahimi.pages.dev/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+    alt="Space shooter contribution graph"
+    width="100%"
+  />
+</p>
 <div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=noorulhaqrahimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
