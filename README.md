@@ -47,13 +47,13 @@
 </p>
 <p align="center">
   <!-- <img src="https://trophy.ryglcloud.net/?username=noorulhaqrahimi&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Noorulhaq Rahimi's GitHub Trophies" /> -->
-</p>
+<!-- </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=noorulhaqrahimi&theme=radical&radius=10" alt="noorulhaqrahimi's Activity Graph" />
 </p>
 <div align="center">
   <!-- <img src="profile-3d-city.svg" alt="3D City" width="100%" /> -->
-</div>
+<!-- </div> -->
 
 
 ## 🛠️ Languages & Tools
