@@ -5,11 +5,11 @@
     width="100%"
   />
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=noorulhaqrahimi">
     <img src="https://komarev.com/ghpvc/?username=noorulhaqrahimi&label=Profile%20views&color=00FFFF&style=flat-square" alt="noorulhaqrahimi's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="https://github.com/noorulhaqrahimi/noorulhaqrahimi/raw/main/assets/banner.png?raw=true" alt="Banner" width="100%" />
 
